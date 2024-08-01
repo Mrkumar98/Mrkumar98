@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mrkumar98/count.svg" alt="MrKumar's GitHub Visitors count" />
-</p>
-
 <h1 align="center">Hi, I'm Mr Kumar 🎭</h1>
-<h3 align="center">Cyber Security Analyst & Ethical Hacker</h3>
+<h3 align="center">Cyber Security Professional 😇 & Ethical Hacker 💖</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/themrkumar/" target="_blank">
+  <a href="https://www.linkedin.com/in/mrkumarin/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mrkumar9398@gmail.com" target="_blank">
@@ -67,6 +63,12 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mrkumar98/count.svg" alt="Total Page Visits" />
+  <br>
+  Total Page Visits
+</p>
 
 ### :hugs: Thank You!
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/mrkumar98)! :v:
